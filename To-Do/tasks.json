@@ -1,4 +1,17 @@
 {
-    "1": {"description": "Clean the desk ", "priority": null, "status": "Not yet"},
-    "2": {"description": "Study Python ", "priority": null, "status": "Not yet"}
+    "1": {
+        "description": "Arrange things",
+        "priority": "High",
+        "status": "Not yet"
+    },
+    "2": {
+        "description": "Hello",
+        "priority": "Low",
+        "status": "Not yet"
+    },
+    "3": {
+        "description": "nothing",
+        "priority": "Medium",
+        "status": "Not yet"
+    }
 }
